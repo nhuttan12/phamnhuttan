@@ -1,10 +1,9 @@
-# Hey there 👋, I'm Luu Nguyen Thanh Vu!
+# Hey there 👋, I'm Pham Nhut Tan!
 - 🎓 I'm a Software Engineering Graduate from Nong Lam University
-- 📫 How to reach me: luunguuenthanhvu123@gmail.com
+- 📫 How to reach me: phamnhuttan.9a6.2017@gmail.com
 - 💬 Connect with me: 
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/766674893118767144)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/v%C5%A9-l%C6%B0u-09a852310/)
-[![Instagram Badge](https://img.shields.io/badge/-Facebook-0866FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100048027210422)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/867948800755523614)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/pham-nhut-tan-573a71258)
 
 
 
@@ -14,7 +13,7 @@
 </h2>
 
 <!--
-**luunguyenthanhvu/luunguyenthanhvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nhuttan12/phamnhuttan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
